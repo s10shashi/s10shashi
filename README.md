@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FstKQyZ720oKlIGbOU7V-SpBiK_poCpK/view?usp=sharing](https://drive.google.com/file/d/1FstKQyZ720oKlIGbOU7V-SpBiK_poCpK/view?usp=sharing)
 
-<img align="right" alt="Coding" width="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s10shashi&label=Profile%20views&color=0e75b6&style=flat" alt="s10shashi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s10shashi" alt="s10shashi" /></a> </p>
