@@ -13,7 +13,7 @@
 - 📫 How to reach me **shashiaryavanshi145@gmail.com**
 - 👨‍ Linkedin:- [Click Here](https://www.linkedin.com/in/shashi-s-aryavanshi-88827a51/)
 
-- 📄 Know about my experiences [My Resume](https://github.com/s10shashi/My-Resume/blob/main/Shashi%20_Suman_Resume.pdf)
+- 📄 Know about my experiences [My Resume](https://github.com/s10shashi/My-Resume/blob/main/Shashi-Suman-Resume.pdf)
 -  📫 My Portfolio:- [Click Here](https://s10shashi.github.io/)
 
 
